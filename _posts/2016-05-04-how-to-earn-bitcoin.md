@@ -44,6 +44,7 @@ Software development, writing, design, making websites or apps, audio transcript
 <li><a href="https://www.reddit.com/r/Jobs4Bitcoins/">Jobs4Bitcoins</a></li>
 <li><a href="http://reinproject.org/">Rein Project</a></li>
 <li><a href="https://cryptojobslist.com/">Crypto Jobs List</a></li>
+<li><a href="https://blockchainjobz.com/">BLOCKCHAINJOBZ</a></li>
 </ul>
 
 <p><strong>Market Places</strong></p>
